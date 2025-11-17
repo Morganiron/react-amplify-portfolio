@@ -40,7 +40,7 @@ const AboutMe = () => (
     </p>
 
     <p className="italic text-slate-600">
-      Outside of tech, I'm a dad, an artist, a musician, a lifelong traveler, and an unapologetic nerd for science, history, and all things curious. I believe knowledge is everything &ndash; and I'm always hungry for more.
+      Outside of tech, I'm a dad, an artist, a musician, a lifelong learner, and an unapologetic nerd for science, history, and all things curious. I believe knowledge is everything &ndash; and I'm always hungry for more.
     </p>
   </div>
 );
